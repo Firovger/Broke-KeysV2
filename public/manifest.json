@@ -1,0 +1,17 @@
+{
+  "name": "Broke Keys - Pro Tracker",
+  "short_name": "BrokeKeys",
+  "description": "High-performance A/D key interval tracker for pro gamers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0B",
+  "theme_color": "#F97316",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
